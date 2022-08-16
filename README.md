@@ -1,3 +1,12 @@
+netlify / 구름ide / 머신러닝 
+
+url :  https://simiaractors.netlify.app/
+
+![닮은꼴](https://user-images.githubusercontent.com/68491295/184798097-0230244a-0054-435d-a049-4c9e8638f4c1.png)
+
+
+
+
 ```
 ┌───────────────────────────────────────────────┐
                                        _       
